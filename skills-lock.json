@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "skills": {
+    "design-md": {
+      "source": "dsmontoya/agent-tools",
+      "sourceType": "github",
+      "skillPath": "skills/design-md/SKILL.md",
+      "computedHash": "b3d775a8610dc6219fecbcefe74f7530c90968703de414b8abedf6cd23712784"
+    },
+    "prd": {
+      "source": "dsmontoya/agent-tools",
+      "sourceType": "github",
+      "skillPath": "skills/prd/SKILL.md",
+      "computedHash": "758da856bd08ba0ed0d02b0a8405afa652e06725e37b0cd2fdf58acfcf253bd5"
+    },
+    "prd-apply": {
+      "source": "dsmontoya/agent-tools",
+      "sourceType": "github",
+      "skillPath": "skills/prd-apply/SKILL.md",
+      "computedHash": "2e96e07a75e382221199f72d0febfa0e621fe5b6652a1a12656d84127de22a7f"
+    },
+    "prd-archive": {
+      "source": "dsmontoya/agent-tools",
+      "sourceType": "github",
+      "skillPath": "skills/prd-archive/SKILL.md",
+      "computedHash": "38183a95c1b907e89a279b336510db093c043b17ee1adc259d8746591d1667ab"
+    },
+    "prd-audit": {
+      "source": "dsmontoya/agent-tools",
+      "sourceType": "github",
+      "skillPath": "skills/prd-audit/SKILL.md",
+      "computedHash": "c5de03265e1c387502bc9696bfa6190a3bbe0dde02866c263832a935b74b63ff"
+    },
+    "prd-clarify": {
+      "source": "dsmontoya/agent-tools",
+      "sourceType": "github",
+      "skillPath": "skills/prd-clarify/SKILL.md",
+      "computedHash": "ebb1d7378b41a132d66e6eed57545a707e85d5b9ad1b06602b0a6612c9df1423"
+    },
+    "prd-convert": {
+      "source": "dsmontoya/agent-tools",
+      "sourceType": "github",
+      "skillPath": "skills/prd-convert/SKILL.md",
+      "computedHash": "ac5561e752f18b43795cdb6e19cf5ef68f5e57a64fb26a133f85537e41bf439d"
+    },
+    "prd-explore": {
+      "source": "dsmontoya/agent-tools",
+      "sourceType": "github",
+      "skillPath": "skills/prd-explore/SKILL.md",
+      "computedHash": "add777c0018aa4c81b0717183eceaa19046f83f76c5fdc17df897d4441f3a83b"
+    },
+    "prd-propose": {
+      "source": "dsmontoya/agent-tools",
+      "sourceType": "github",
+      "skillPath": "skills/prd-propose/SKILL.md",
+      "computedHash": "4d4d87b8782d5be1d325fda32ef2bacee8df2c23f3e79afafc934bddb32dd18e"
+    },
+    "prd-template-drift": {
+      "source": "dsmontoya/agent-tools",
+      "sourceType": "github",
+      "skillPath": "skills/prd-template-drift/SKILL.md",
+      "computedHash": "9b521c1bb13c4b95a794739395948be7dd8f014b9730f71d38dd01a799ffa59c"
+    },
+    "prd-verify": {
+      "source": "dsmontoya/agent-tools",
+      "sourceType": "github",
+      "skillPath": "skills/prd-verify/SKILL.md",
+      "computedHash": "ee7b0cbb3113307c37b466b58f79e9013530269cfd43c276eaa0a3eb042b9b7b"
+    },
+    "solid-principles": {
+      "source": "dsmontoya/agent-tools",
+      "sourceType": "github",
+      "skillPath": "skills/solid-principles/SKILL.md",
+      "computedHash": "2b09bdc85e88139f48a93a2cf1faba6d153836e837621b73a334b2bec5384637"
+    }
+  }
+}
